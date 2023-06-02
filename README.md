@@ -7,7 +7,7 @@
 
 #### Project Introduction 
 1. a simple price prediction project, using LSTM model and traditional ARIMA model as my course project. 
-2. I did a purchasing bot and email notification, also use airflow to send me message if my item is available. 
+2. I did a purchasing bot and email notification, also use airflow to send me message if my item is available. (still in the process of figuring out how to add selenium hook in airflow)
 
 <!---
 MiaooZheng/MiaooZheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
